@@ -1,5 +1,7 @@
-package com.modulr.finance;
+package com.modulr.account;
 
+import com.modulr.account.AccountService;
+import com.modulr.account.AccountServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

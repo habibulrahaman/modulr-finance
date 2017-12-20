@@ -1,4 +1,4 @@
-package com.modulr.finance;
+package com.modulr.account;
 
 import java.math.BigDecimal;
 
